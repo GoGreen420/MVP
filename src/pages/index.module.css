@@ -8,6 +8,15 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: url('../../static/img/Clouds.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -20dvh;
+  -webkit-text-stroke: 0.5px black;
+  
+
+  
+  
 }
 
 @media screen and (max-width: 996px) {
